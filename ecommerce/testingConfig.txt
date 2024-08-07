@@ -1,0 +1,8 @@
+folderCount=10
+folderPath=C:/Users/nichiuser/Desktop/generatedFolders
+outputPath=C:/Users/nichiuser/Desktop/testingEcommerceDataStandfordV1.csv
+excelFilePath=C:/Users/nichiuser/Desktop/testingregexEcommerceDataV01.xlsx
+
+
+
+
